@@ -12,3 +12,5 @@
 - 
 
 # Visualizations
+- [Curse of Dimensionality]([https://hastie.su.domains/ElemStatLearn/](https://www.youtube.com/watch?v=1enQMVh1_Gw&ab_channel=VisualMath)https://www.youtube.com/watch?v=1enQMVh1_Gw&ab_channel=VisualMath) - VisualMath
+-  [Support Vector Machine]([https://hastie.su.domains/ElemStatLearn/](https://www.youtube.com/watch?v=_YPScrckx28&ab_channel=VisuallyExplained)https://www.youtube.com/watch?v=_YPScrckx28&ab_channel=VisuallyExplained) - Visually Explained
