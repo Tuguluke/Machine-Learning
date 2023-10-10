@@ -9,7 +9,7 @@
 
 # Tutorials 
 -  [UvA - Machine Learning 1 - 2020](https://www.youtube.com/watch?v=_XmGyd4smUs&list=PL8FnQMH2k7jzhtVYbKmvrMyXDYMmgjj_n&ab_channel=ErikBekkers) - Erik Bekkers
-- [Tübingen Machine Learning 2023]([https://www.youtube.com/watch?v=_XmGyd4smUs&list=PL8FnQMH2k7jzhtVYbKmvrMyXDYMmgjj_n&ab_channel=ErikBekkers](https://www.youtube.com/playlist?list=PL05umP7R6ij2YE8rRJSb-olDNbntAQ_Bx)) -  Philipp Hennig
+- [Tübingen Machine Learning 2023](https://www.youtube.com/playlist?list=PL05umP7R6ij2YE8rRJSb-olDNbntAQ_Bx) -  Philipp Hennig
 
 # Visualizations
 - [Curse of Dimensionality](https://www.youtube.com/watch?v=1enQMVh1_Gw&ab_channel=VisualMath) - VisualMath
