@@ -14,3 +14,4 @@
 # Visualizations
 - [Curse of Dimensionality](https://www.youtube.com/watch?v=1enQMVh1_Gw&ab_channel=VisualMath) - VisualMath
 -  [Support Vector Machine](https://www.youtube.com/watch?v=_YPScrckx28&ab_channel=VisuallyExplained) - Visually Explained
+-  [The Kernel Trick in Support Vector Machine](https://www.youtube.com/watch?v=Q7vT0--5VII&ab_channel=VisuallyExplained) - Visually Explained
