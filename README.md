@@ -6,7 +6,7 @@
 - [A Course in Machine Learning](http://ciml.info/) - Hal Daumé III
 - [The Elements of Statistical Learning](https://hastie.su.domains/ElemStatLearn/) - Trevor Hastie
 - [Bayesian Reasoning and Machine Learning](http://web4.cs.ucl.ac.uk/staff/D.Barber/pmwiki/pmwiki.php?n=Brml.Online) - David Barber
-- [Understanding Machine Learning: From Theory to Algorithms](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/) - Shai Shalev-Shwartz and Shai Ben-David
+- [Understanding Machine Learning: From Theory to Algorithms](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/) - Shai Shalev-Shwartz
 
 # Tutorials 
 -  [UvA - Machine Learning 1 - 2020](https://www.youtube.com/watch?v=_XmGyd4smUs&list=PL8FnQMH2k7jzhtVYbKmvrMyXDYMmgjj_n&ab_channel=ErikBekkers) - Erik Bekkers
