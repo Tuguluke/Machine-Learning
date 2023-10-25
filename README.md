@@ -7,7 +7,7 @@
 - [The Elements of Statistical Learning](https://hastie.su.domains/ElemStatLearn/) - Trevor Hastie
 - [Bayesian Reasoning and Machine Learning](http://web4.cs.ucl.ac.uk/staff/D.Barber/pmwiki/pmwiki.php?n=Brml.Online) - David Barber
 - [Understanding Machine Learning: From Theory to Algorithms](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/) - Shai Shalev-Shwartz
-- - [An Introduction to Statistical Learnings](https://www.statlearning.com/) - Rob Tibshirani
+- [An Introduction to Statistical Learnings](https://www.statlearning.com/) - Rob Tibshirani
 
 # Tutorials 
 -  [UvA - Machine Learning 1 - 2020](https://www.youtube.com/watch?v=_XmGyd4smUs&list=PL8FnQMH2k7jzhtVYbKmvrMyXDYMmgjj_n&ab_channel=ErikBekkers) - Erik Bekkers
