@@ -10,12 +10,15 @@
 - [An Introduction to Statistical Learnings](https://www.statlearning.com/) - Rob Tibshirani
 
 # Tutorials 
--  [UvA - Machine Learning 1 - 2020](https://www.youtube.com/watch?v=_XmGyd4smUs&list=PL8FnQMH2k7jzhtVYbKmvrMyXDYMmgjj_n&ab_channel=ErikBekkers) - Erik Bekkers
+- [UvA - Machine Learning 1 - 2020](https://www.youtube.com/watch?v=_XmGyd4smUs&list=PL8FnQMH2k7jzhtVYbKmvrMyXDYMmgjj_n&ab_channel=ErikBekkers) - Erik Bekkers
 - [Tübingen Machine Learning 2023](https://www.youtube.com/playlist?list=PL05umP7R6ij2YE8rRJSb-olDNbntAQ_Bx) -  Philipp Hennig
 - [Statistical Learning Stanford](https://www.youtube.com/watch?v=LvySJGj-88U&list=PLoROMvodv4rOzrYsAxzQyHb8n_RWNuS1e&ab_channel=StanfordOnline) -  Trevor Hastie + Robert Tibshirani
 - [Stanford CS229: Machine Learning Course](https://www.youtube.com/watch?v=jGwO_UgTS7I&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU&index=1&ab_channel=StanfordOnline) -  Andrew Ng
 
 # Visualizations
 - [Curse of Dimensionality](https://www.youtube.com/watch?v=1enQMVh1_Gw&ab_channel=VisualMath) - VisualMath
--  [Support Vector Machine](https://www.youtube.com/watch?v=_YPScrckx28&ab_channel=VisuallyExplained) - Visually Explained
--  [The Kernel Trick in Support Vector Machine](https://www.youtube.com/watch?v=Q7vT0--5VII&ab_channel=VisuallyExplained) - Visually Explained
+- [Support Vector Machine](https://www.youtube.com/watch?v=_YPScrckx28&ab_channel=VisuallyExplained) - Visually Explained
+- [The Kernel Trick in Support Vector Machine](https://www.youtube.com/watch?v=Q7vT0--5VII&ab_channel=VisuallyExplained) - Visually Explained
+- [How kNN algorithm works](https://www.youtube.com/watch?v=UqYde-LULfs&ab_channel=ThalesSehnK%C3%B6rting) - Thales Sehn Körting
+
+  
