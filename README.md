@@ -21,4 +21,6 @@
 - [The Kernel Trick in Support Vector Machine](https://www.youtube.com/watch?v=Q7vT0--5VII&ab_channel=VisuallyExplained) - Visually Explained
 - [How kNN algorithm works](https://www.youtube.com/watch?v=UqYde-LULfs&ab_channel=ThalesSehnK%C3%B6rting) - Thales Sehn Körting
 - [ConvNetJS Deep Learning in your browser](https://cs.stanford.edu/people/karpathy/convnetjs/index.html) - Andrej Karpathy
+- [Deep Recurrent Nets character generation demo
+](https://cs.stanford.edu/people/karpathy/recurrentjs/) - Ibid
 - [CS231n Convolutional Neural Networks for Visual Recognition](https://cs231n.github.io/convolutional-networks/) - Stanford
