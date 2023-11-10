@@ -14,6 +14,7 @@
 - [Tübingen Machine Learning 2023](https://www.youtube.com/playlist?list=PL05umP7R6ij2YE8rRJSb-olDNbntAQ_Bx) -  Philipp Hennig
 - [Statistical Learning Stanford](https://www.youtube.com/watch?v=LvySJGj-88U&list=PLoROMvodv4rOzrYsAxzQyHb8n_RWNuS1e&ab_channel=StanfordOnline) -  Hastie + Tibshirani
 - [Stanford CS229: Machine Learning Course](https://www.youtube.com/watch?v=jGwO_UgTS7I&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU&index=1&ab_channel=StanfordOnline) -  Andrew Ng
+- [MIT 6.S191: Introduction to Deep Learning](https://www.youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI) - Alexander Amini
 
 # Visualizations
 - [Curse of Dimensionality](https://www.youtube.com/watch?v=1enQMVh1_Gw&ab_channel=VisualMath) - VisualMath
