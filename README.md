@@ -8,6 +8,7 @@
 - [Bayesian Reasoning and Machine Learning](http://web4.cs.ucl.ac.uk/staff/D.Barber/pmwiki/pmwiki.php?n=Brml.Online) - David Barber
 - [Understanding Machine Learning: From Theory to Algorithms](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/) - Shai Shalev-Shwartz
 - [An Introduction to Statistical Learnings](https://www.statlearning.com/) - Rob Tibshirani
+- [Causal Inference The Mixtape](https://mixtape.scunning.com/) - Scott Cunningham
 
 # Tutorials 
 - [UvA - Machine Learning 1 - 2020](https://www.youtube.com/playlist?list=PL8FnQMH2k7jzhtVYbKmvrMyXDYMmgjj_n) - Erik Bekkers
